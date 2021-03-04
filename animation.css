@@ -1,0 +1,34 @@
+@keyframes shadow_headphone {
+from {top:-1000px;}
+to {top: 67px;}
+}
+
+@keyframes shadow_phone{
+    from { left:-777px;}
+    to{left:358px;}
+}
+
+@keyframes shadow_charger_new{
+    from{left:-666px;}
+    to{left:410px;}
+}
+
+@keyframes charger_new{
+    from{left:-666px;}
+    to{left: 382.5px;}
+}
+
+@keyframes red_hello{
+    from{left: -1400px;transform:rotate(90deg);}
+    to{left: 372px; transform: rotate(0deg);}
+}
+
+@keyframes blue_hello{
+    from{left:-1400px;transform:rotate(90deg);}
+    to{left: 364px;transform:rotate(0deg);}
+}
+
+@keyframes green_hello{
+    from{left:-1400px;transform:rotate(90deg);}
+    to{left: 379px;transform:rotate(0deg);}
+}
